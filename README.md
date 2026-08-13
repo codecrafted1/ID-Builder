@@ -1,32 +1,42 @@
-# React + TypeScript + Vite
+# HH Goa 2026 — ID Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> Turn your photo into a bold, share-ready HH Goa 2026 builder identity.
 
-Currently, two official plugins are available:
+HH Goa 2026 ID Builder is a fast, mobile-friendly web tool that transforms an uploaded photo into a branded event graphic.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Add your name and stack/role, adjust your photo, generate your frame, download it, and share your builder identity.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the Oxlint configuration
+- 📸 Upload photos directly from your device
+- 🖼️ Supports JPG, PNG and HEIC/HEIF formats
+- ✨ Scrambled robotic upload animation
+- 🧑 Add your name
+- 💻 Add your stack / role
+- 🔍 Zoom and reposition your photo
+- 🟢 HH Goa 2026 neon/robotic visual identity
+- 🏷️ `#FrameInGoa` branding
+- ⚡ Client-side image generation
+- 📥 Download the generated graphic
+- 𝕏 Share your creation
+- 📱 Mobile-friendly interface
+- 🚫 No login
+- 🚫 No signup
+- ⚙️ No backend required
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+---
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+## 🎯 How It Works
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+```text
+UPLOAD
+   ↓
+ADD YOUR DETAILS
+   ↓
+ADJUST YOUR PHOTO
+   ↓
+GENERATE FRAME
+   ↓
+DOWNLOAD / SHARE ON X
